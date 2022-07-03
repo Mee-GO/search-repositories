@@ -1,1 +1,1 @@
-GitHub-pages: https://mee-go.github.io/search-repositiries/
+GitHub-pages: https://mee-go.github.io/search-repositories/
